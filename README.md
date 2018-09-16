@@ -11,3 +11,6 @@ https://docs.google.com/document/d/1dTNpQ8-loX-9AiOd89VEh-5Dubv5I1A1PfITkqgF1t0/
 
 # Single Container Docker Configurations
 https://docs.google.com/document/d/15gRhKitzoMBSSSSvW47SqNR3V_Fkk2I7ib1JDauHOhI/edit?usp=sharing
+
+# Advanced Environment Customization with Configuration Files (.ebextensions)
+https://docs.google.com/document/d/1DWG6UeNUqoFWYPlDPC7vedvX8JC7ehQaaJszGRd5S80/edit?usp=sharing
