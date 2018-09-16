@@ -14,3 +14,6 @@ https://docs.google.com/document/d/15gRhKitzoMBSSSSvW47SqNR3V_Fkk2I7ib1JDauHOhI/
 
 # Advanced Environment Customization with Configuration Files (.ebextensions)
 https://docs.google.com/document/d/1DWG6UeNUqoFWYPlDPC7vedvX8JC7ehQaaJszGRd5S80/edit?usp=sharing
+
+# .ebextensions - PHP DynamoDB Sessions Demo
+https://docs.google.com/document/d/1FVcHREwsa2PXbHTRcbCSa1SPyU2uRH_Gx1_fw2n612w/edit?usp=sharing
