@@ -8,3 +8,6 @@ https://docs.google.com/document/d/1j0zvKkJK2K3Ybe36xMOEEVGFvVoPJmSSKd4-9pCPULU/
 
 # Deploying Elastic Beanstalk Applications from Docker Containers
 https://docs.google.com/document/d/1dTNpQ8-loX-9AiOd89VEh-5Dubv5I1A1PfITkqgF1t0/edit?usp=sharing
+
+# Single Container Docker Configurations
+https://docs.google.com/document/d/15gRhKitzoMBSSSSvW47SqNR3V_Fkk2I7ib1JDauHOhI/edit?usp=sharing
