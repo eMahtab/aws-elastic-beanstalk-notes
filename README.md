@@ -1,5 +1,11 @@
 # aws-elastic-beanstalk-notes
 
+# Elastic Beanstalk - Deploymeny Policies and Settings
+https://docs.google.com/document/d/1_3wu8Kx7__BRqYzgu2964W36ZQSehcr5K41lz8ARRYw/edit?usp=sharing
+
+# Elastic Beanstalk - Deploying Applications to AWS Elastic Beanstalk Environments
+https://docs.google.com/document/d/10wXIC0OZWLPcXtL7i2_jbr86raJHpYoirMiwwy5AE7s/edit?usp=sharing
+
 # Elastic Beanstalk Application Deployment :thumbsup:
 https://docs.google.com/document/d/1yoglXZZZzZfpVi8jlwyXlvdg-WMgL9vh6IgiBn29KUk/edit?usp=sharing
 
