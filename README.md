@@ -3,7 +3,7 @@
 # Deploymeny Policies and Settings
 https://docs.google.com/document/d/1_3wu8Kx7__BRqYzgu2964W36ZQSehcr5K41lz8ARRYw/edit?usp=sharing
 
-# Deploying Applications to AWS Elastic Beanstalk Environments
+# Deploying Applications to Elastic Beanstalk Environments
 https://docs.google.com/document/d/10wXIC0OZWLPcXtL7i2_jbr86raJHpYoirMiwwy5AE7s/edit?usp=sharing
 
 # Elastic Beanstalk Application Deployment :thumbsup:
