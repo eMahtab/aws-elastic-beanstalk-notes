@@ -1,15 +1,15 @@
 # aws-elastic-beanstalk-notes
 
-# Deploymeny Policies and Settings
+# Deploymeny Policies and Settings :thumbsup:
 https://docs.google.com/document/d/1_3wu8Kx7__BRqYzgu2964W36ZQSehcr5K41lz8ARRYw/edit?usp=sharing
 
-# Deploying Applications to Elastic Beanstalk Environments
+# Deploying Applications to Elastic Beanstalk Environments :thumbsup:
 https://docs.google.com/document/d/10wXIC0OZWLPcXtL7i2_jbr86raJHpYoirMiwwy5AE7s/edit?usp=sharing
 
-# Elastic Beanstalk - Multi Container Docker Environment
+# Elastic Beanstalk - Multi Container Docker Environment :thumbsup:
 https://docs.google.com/document/d/1NwsvmNfXwl0DkLw9pyIx73DeAsTS78fSF_xqtRYoKYM/edit?usp=sharing
 
-# Elastic Beanstalk - Multi Container Docker Environment Demo
+# Elastic Beanstalk - Multi Container Docker Environment Demo :thumbsup:
 https://docs.google.com/document/d/1Nw5X6t53a4r6KPM2U8pESFRftjnYf1L8QYCF_0sieQ0/edit?usp=sharing
 
 # Elastic Beanstalk Application Deployment :thumbsup:
