@@ -35,3 +35,6 @@ https://docs.google.com/document/d/13MB07t0KQtq_m4_gT1DCwVg3sI0e8nfvt8d5zCjDY2g/
 
 # Blue Green Deployment with Elastic Beanstalk :thumbsup:
 https://docs.google.com/document/d/1-AcLgKMRGMGZT3_ws7Jn4UgU0nJ6QUb_A6FUK9-yb7Y/edit?usp=sharing
+
+# Elastic Beanstalk - Saved Configurations
+https://docs.google.com/document/d/1uzYgaDcZfizgQu7ekUB4fvQycUnc7hHwtJs8UTnfV3o/edit?usp=sharing
