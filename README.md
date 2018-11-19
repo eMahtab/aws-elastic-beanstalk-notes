@@ -38,3 +38,6 @@ https://docs.google.com/document/d/1-AcLgKMRGMGZT3_ws7Jn4UgU0nJ6QUb_A6FUK9-yb7Y/
 
 # Elastic Beanstalk - Saved Configurations
 https://docs.google.com/document/d/1uzYgaDcZfizgQu7ekUB4fvQycUnc7hHwtJs8UTnfV3o/edit?usp=sharing
+
+# Elastic Beanstalk - Basic Health Reporting
+https://docs.google.com/document/d/1Ppuq0JihFqS8b-44cXP_BabIvR9_h8b-teOxuesT5fI/edit?usp=sharing
