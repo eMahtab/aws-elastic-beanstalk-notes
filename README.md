@@ -44,3 +44,6 @@ https://docs.google.com/document/d/1Ppuq0JihFqS8b-44cXP_BabIvR9_h8b-teOxuesT5fI/
 
 # Elastic Beanstalk - Logs (tail logs, bundle log, log rotation) and log streaming
 https://docs.google.com/document/d/1P3VltN8rZdJZKP_JZ2cA6gMDFZF6brcU_0ns2XUjfcc/edit?usp=sharing
+
+# Elastic Beanstalk - Platform Updates and Managed Platform Updates
+https://docs.google.com/document/d/15hssvSNfTJr490xXpOBUVgWLXLKJzsiiRR-2MFcStbg/edit?usp=sharing
