@@ -51,4 +51,6 @@ https://docs.google.com/document/d/1P3VltN8rZdJZKP_JZ2cA6gMDFZF6brcU_0ns2XUjfcc/
 # Elastic Beanstalk - Platform Updates and Managed Platform Updates
 https://docs.google.com/document/d/15hssvSNfTJr490xXpOBUVgWLXLKJzsiiRR-2MFcStbg/edit?usp=sharing
 
+# Elastic Beanstalk - Worker Environment
+https://docs.google.com/document/d/1dbZqs6TgAd7FmuqjRWaOZRHiXUrSIXnLo6gAXZoo3RU/edit?usp=sharing
 
