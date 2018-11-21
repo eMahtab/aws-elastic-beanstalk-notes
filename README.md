@@ -54,3 +54,6 @@ https://docs.google.com/document/d/15hssvSNfTJr490xXpOBUVgWLXLKJzsiiRR-2MFcStbg/
 # Elastic Beanstalk - Worker Environment
 https://docs.google.com/document/d/1dbZqs6TgAd7FmuqjRWaOZRHiXUrSIXnLo6gAXZoo3RU/edit?usp=sharing
 
+# Elastic Beanstalk - Worker Environment Demo
+https://docs.google.com/document/d/16jR4cvotuUcQ11ob3awKpA_PGjVrh-JLQdp2dWVIlGc/edit?usp=sharing
+
