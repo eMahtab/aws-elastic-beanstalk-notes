@@ -57,3 +57,6 @@ https://docs.google.com/document/d/1dbZqs6TgAd7FmuqjRWaOZRHiXUrSIXnLo6gAXZoo3RU/
 # Elastic Beanstalk - Worker Environment Demo
 https://docs.google.com/document/d/16jR4cvotuUcQ11ob3awKpA_PGjVrh-JLQdp2dWVIlGc/edit?usp=sharing
 
+# Elastic Beanstalk - Application Version Lifecycle Settings
+https://docs.google.com/document/d/1iCcWAyc3GaqEecN86FMEkhYeqvHoBq9aEAc5eCmvWDE/edit?usp=sharing
+
